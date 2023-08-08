@@ -12,8 +12,7 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src",
     "stylelint": "stylelint '**/*.scss'",
     "down": "cross-env VITE_APP_MANTAINANCE_MODE=\"on\" yarn dev",
-    "serve": "cross-env VITE_APP_MODE=\"production\" yarn dev",
-    "test": "vitest --environment jsdom"
+    "serve": "cross-env VITE_APP_MODE=\"production\" yarn dev"
   },
   "engines": {
     "npm": "please-use-yarn",
