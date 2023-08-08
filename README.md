@@ -11,7 +11,7 @@
 
 ## Instructions 🚀
 
-* **Requirements**: *Install [Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com) en tu sistema.*
+* **Requirements**: *Install [Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com)*
 * Clone this project and get inside its directory.
 * Install all dependencies whit:
 
@@ -31,4 +31,4 @@ yarn build
 yarn dev
 ```
 
-It will be available in `http://localhost:8080`.
+It will run in `http://localhost:8080`.
